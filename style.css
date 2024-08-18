@@ -14,7 +14,7 @@ body {
 
 /* Contêiner principal da imagem */
 .container-img {
-    display: flex;  
+    display: grid;  
     justify-content: center;
 }
 
