@@ -34,7 +34,6 @@ body {
 
 /* Estilo da imagem */
 .img {
-    display: flex;
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
@@ -42,7 +41,6 @@ body {
     height: 400px;
     width: 300px;
     background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
 }
 
