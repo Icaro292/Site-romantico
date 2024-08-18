@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.princ{
+    display:flex;  
+    justify-content: center;
+}
+
+.img{
+    margin-top: 50px;
+    border-radius: 20px;
+    background-image: url(pexels-camila-borquez-1090509800-27559006.jpg);
+    height: 600px;
+    width: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+.ppp{
+    display: flex;
+    justify-content: center;
+}
+
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: solid;
+}
+ hr{
+    justify-content: center;
+    border: 0;
+    height: 2px;
+    background: #38668547;
+    margin-top: 25px;
+ }
+
+p{
+    
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: solid;
+}
+
+
+footer{
+
+    background: #333;
+    color: #fff;
+    width: 100vw;
+    bottom: 0;
+}
