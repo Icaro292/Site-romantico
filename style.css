@@ -14,6 +14,7 @@ body {
 
 /* Contêiner principal da imagem */
 .container-img {
+    background-color: #fff;
     display: grid;  
     justify-content: center;
 }
