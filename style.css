@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&display=swap');
+
 /* Reset básico */
 * {
     margin: 0;
@@ -30,6 +32,13 @@ body {
     margin-top: 10px;
     font-size: 20px;
     font-weight: bold;
+}
+
+.emoji{
+    margin-top: 10px;
+    display: grid;
+    font-size: 30px;
+    text-align: center;
 }
 
 /* Estilo da imagem */
